@@ -10,8 +10,8 @@ This bot provides functionality to make voice calls between users in a Discord s
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/laptaka/ServerCallBot.git
+    cd ServerCallBot
     ```
 
 2. Create a virtual environment and activate it:
